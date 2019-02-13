@@ -1,0 +1,38 @@
+{
+  "profile":{
+    "name":"sravani",
+    "Image":"images/download.png",
+    "Branch":"CSE",
+    "PhNo":"7893754078",
+    "gmail":"mahasra67@gmil.com",
+    "careerobject":"To build a long-term career in [specific industry] with opportunities for career growth. To enhance my educational and professional skills in a stable and dynamic workplace."
+  },
+  "Education":[
+    {
+      "degree":"B-TECH",
+      "college":"qis",
+      "Branch":"CSE",
+      "Marks":"75%",
+      "endDate":"03/04/2020"
+    },
+    {
+      "degree":"Intermediate",
+      "college":"Prathibha",
+      "Branch":"MPC",
+      "Marks":"75%",
+      "endDate":"03/04/2016"
+    },
+    {
+      "degree":"SSC",
+      "college":"ZPHSchool",
+      "Branch":"Tm",
+      "Marks":"77%",
+      "endDate":"04/04/2014"
+    }
+
+  ],
+  "Skils":{
+    "qis":"windows 7,windows 8.1.xp",
+    "programmingSkills":"HTML,CSS,javascript"
+  }
+}
